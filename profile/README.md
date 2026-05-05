@@ -4,8 +4,7 @@ We build thoughtful digital products with a focus on clean design, usability, an
 
 ## Projects
 
-- **Musea**  
-  An unofficial app exploring The Metropolitan Museum of Art collection  
+- **Musea** - An unofficial app exploring The Metropolitan Museum of Art collection  
   👉 [View Project](https://bav-labs.github.io/musea/)
 
   
